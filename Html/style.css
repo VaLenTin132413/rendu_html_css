@@ -1,0 +1,20 @@
+.shadows-into-light-regular {
+  font-family: "Shadows Into Light", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+*{background-color: rgb(153, 249, 190);}
+.Shrek_size{width: 200px;height: 200px;}
+img{width: 200px;height: 200px; border-radius: 500px;}
+
+h1{text-align: center; font-size: 100px; color: rgba(88, 142, 6, 0.516);}
+.aligner_centre{display: flex;justify-content: center;justify-content: space-evenly;}
+.wiki{display: flex; justify-content: end;}
+.shrek_meme{display: flex; flex-direction: row;}
+.Fionaa{display: flex; flex-direction: row;align-items: center;}
+.lanedeshrek{display: flex;flex-direction: row;}
+.wiki{display: flex; flex-direction: column;align-items: end;}
+.aze{height: 225px;}
+.yt{display: flex;justify-content: center;justify-content: space-evenly;}
+

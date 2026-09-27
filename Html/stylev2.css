@@ -1,0 +1,4 @@
+img{width: 200px;height: 200px;}
+.image{display: flex;justify-content: center;justify-content: space-around;}
+.img{display: flex; justify-content: center;justify-content: space-around;}
+*{background-color: blanchedalmond;}
